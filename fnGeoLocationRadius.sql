@@ -1,4 +1,4 @@
-# Get Geolocation Radius based on latitude / longitude pints
+# Get Geolocation Radius based on latitude / longitude pints (using Km metric)
 
 DELIMITER $$
 CREATE FUNCTION `fnGeoLocationRadius`(
