@@ -1,3 +1,5 @@
+# Get Geolocation Radius based on latitude / longitude pints
+
 DELIMITER $$
 CREATE FUNCTION `fnGeoLocationRadius`(
 	x1 DECIMAL(13,7), 
